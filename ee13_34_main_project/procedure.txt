@@ -1,0 +1,9 @@
+1. Put all voice data file in this folder
+2. Run aaa_file_creator.py
+3. Run aaa_train_data_creator.py
+4. Run aaa_train_and_test.py
+5. To control Bot run aaa_record.py
+6. aaa_check.py is to debug program and aaa_recordeR.py is to record voice data
+7. aaa_NN_method.py is Neural Network based ML approach program file.It contains function such as Training, feedFroward, backPropagation etc 
+   and is used by other programs.
+   
